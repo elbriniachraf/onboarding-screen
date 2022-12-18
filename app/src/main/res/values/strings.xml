@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">onboarding_screen</string>
+
+    <string name="title1">Welcome</string>
+    <string name="title2">Log in</string>
+    <string name="title3">Shop</string>
+    <string name="title4">Your product is coming</string>
+    <string name="description1">Thanks for downloading on boarding app.this app will help you find the best products with the best prices.</string>
+    <string name="description2">Log in to your account or sign up if you do not already have one or just login using google account.</string>
+    <string name="description3">Find the products which you wanna buy and add them to your shoping list.</string>
+    <string name="description4">Order the products from your shoping list. your products will come to you as soon as possible.</string>
+</resources>
